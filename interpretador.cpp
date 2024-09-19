@@ -262,9 +262,9 @@ void executarPrograma() {
 }
 
 int main() {
-    
+
     // Carregar o programa BASIC a partir do arquivo
-    carregarPrograma("compilador.txt");
+    carregarPrograma("interpretador.txt");
 
     // Executar o programa
     executarPrograma();
